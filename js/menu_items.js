@@ -4,7 +4,7 @@ var menu_items = {
             "type": "falafel",
             "name": "Assiette Falafel",
             "image": "images/af3_200.png",
-            "description": "4 morceaux Falafel + Patate à L'ail + 4 ingrédients au choix + Sauce Ranch maison + Sauce à l'ail \
+            "description": "4 morceaux Falafel + Patate à L'ail + Salade (4 ingrédients au choix) + Sauce Ranch maison + Sauce à l'ail \
                 + Sauce Tahini + Cornichons et/ou Navet.",
             "ingredients": "Ingrédients: Laitue, Concombre, Tomate, Mais, Oignon, Poivron.",
             "cost": "$10",
@@ -27,7 +27,7 @@ var menu_items = {
             "type": "crispy",
             "name": "Assiette Crispy",
             "image": "images/ac1_200.png",
-            "description": "3 morceaux Crispy + Patate à L'ail + 4 ingrédients au choix + Sauce Ranch maison + \
+            "description": "3 morceaux Crispy + Patate à L'ail + Salade (4 ingrédients au choix) + Sauce Ranch maison + \
                 Sauce à l'ail + Cornichons et/ou Navet.",
             "ingredients": "Ingrédients: Laitue, Concombre, Tomate, Mais, Oignon, Poivron.",
             "cost": "$12",
