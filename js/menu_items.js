@@ -177,11 +177,11 @@ var menu_items = {
             "name": "Sauces",
             "image": "images/sauces_200.png",
             "description": "\
-                Sauce à l'ail (75ml) ...... $1.00<br>\
-                Sauce Tahini (75ml) ...... $1.00<br>\
-                Sauce Moutard et Miel (75ml) ...... $1.50<br>\
-                Sauce Cocktail (75ml) ...... $1.50<br>\
-                Sauce Ranch Maison (75ml) ...... $1.50<br>\
+                Sauce à l'ail (60ml) ...... $1.00<br>\
+                Sauce Tahini (60ml) ...... $1.00<br>\
+                Sauce Moutard et Miel (60ml) ...... $1.50<br>\
+                Sauce Cocktail (60ml) ...... $1.50<br>\
+                Sauce Ranch Maison (60ml) ...... $1.50<br>\
                 ",
             "ingredients": "",
             "cost": "À partir de $1.00",
